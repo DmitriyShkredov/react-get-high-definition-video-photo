@@ -28,11 +28,13 @@ function App() {
           facingMode: "user",
           width: {
             min: 640,
-            max: 2560,
+            ideal: 1920,
+            max: 1920,
           },
           height: {
             min: 480,
-            max: 1440,
+            ideal: 1080,
+            max: 1080,
           },
         }}
       />
