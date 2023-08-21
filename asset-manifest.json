@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/react-get-high-definition-video-photo/static/css/main.39ed5b71.css",
-    "main.js": "/react-get-high-definition-video-photo/static/js/main.75013014.js",
+    "main.js": "/react-get-high-definition-video-photo/static/js/main.b6914670.js",
     "index.html": "/react-get-high-definition-video-photo/index.html",
     "main.39ed5b71.css.map": "/react-get-high-definition-video-photo/static/css/main.39ed5b71.css.map",
-    "main.75013014.js.map": "/react-get-high-definition-video-photo/static/js/main.75013014.js.map"
+    "main.b6914670.js.map": "/react-get-high-definition-video-photo/static/js/main.b6914670.js.map"
   },
   "entrypoints": [
     "static/css/main.39ed5b71.css",
-    "static/js/main.75013014.js"
+    "static/js/main.b6914670.js"
   ]
 }
