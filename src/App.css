@@ -7,24 +7,19 @@
 
 .section video {
   display: block;
-  position: absolute;
-  left: 0;
-  top: 0;
   width: 100%;
   height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
   object-fit: cover;
   object-position: center center;
-  /* left: 50%;
-  top: 50%;
-  min-width: 100%;
-  min-height: 100%;
-  transform: translate(-50%, -50%); */
 }
 
-.section button {
+.on-off-button,
+.photo-button {
   display: block;
   position: absolute;
-  top: 20px;
   right: 20px;
   padding: 4px 6px;
   background-color: red;
@@ -33,21 +28,28 @@
   border: 0;
 }
 
-.section img {
+.on-off-button {
+  top: 20px;
+}
+
+.photo-button {
+  top: 60px;
+}
+
+.photo {
   display: block;
   position: absolute;
-  right: 20px;
   bottom: 20px;
+  right: 20px;
   max-width: 200px;
   max-height: 200px;
 }
 
-.section p {
+.resolution {
   position: absolute;
+  top: 20px;
   left: 20px;
-  bottom: 20px;
-  text-align: center;
-  font-size: 18px;
-  color: white;
-  text-shadow: 0 0 2px black;
+  font-size: 16px;
+  color: black;
+  text-shadow: 0 0 2px white;
 }
