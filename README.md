@@ -2,9 +2,9 @@
 
 #### `Demo:` https://dmitriyshkredov.github.io/react-get-high-definition-video-photo/
 
-#### `Youtube:` (Как получить высокое разрешение видео и фото из камеры в React)[https://youtu.be/ddds0d2n1nw]
+#### `Youtube:` [Как получить высокое разрешение видео и фото из камеры в React](https://youtu.be/ddds0d2n1nw)
 
-#### `VK Video:` (Как получить высокое разрешение видео и фото из камеры в React)[https://vk.com/video/@tipichnyjvebrazrabotchik?section=playlists&z=video-222570561_456239033%2Fclub222570561%2Fpl_-222570561_2]
+#### `VK Video:` [Как получить высокое разрешение видео и фото из камеры в React](https://vk.com/video/@tipichnyjvebrazrabotchik?section=playlists&z=video-222570561_456239033%2Fclub222570561%2Fpl_-222570561_2)
 
 ---
 
