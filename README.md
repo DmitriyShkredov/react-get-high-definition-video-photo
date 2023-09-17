@@ -1,16 +1,18 @@
-# React - get high definition video and photo from webcam
+## React - get high definition video and photo from webcam
 
-### `Demo:` https://dmitriyshkredov.github.io/react-get-high-definition-video-photo/
+#### `Demo:` https://dmitriyshkredov.github.io/react-get-high-definition-video-photo/
 
-### `Video:` https://youtu.be/ddds0d2n1nw
+#### `Youtube:` (Как получить высокое разрешение видео и фото из камеры в React)[https://youtu.be/ddds0d2n1nw]
+
+#### `VK Video:` (Как получить высокое разрешение видео и фото из камеры в React)[https://vk.com/video/@tipichnyjvebrazrabotchik?section=playlists&z=video-222570561_456239033%2Fclub222570561%2Fpl_-222570561_2]
 
 ---
 
-### `git clone https://github.com/DmitriyShkredov/react-get-high-definition-video-photo.git`
+#### `git clone https://github.com/DmitriyShkredov/react-get-high-definition-video-photo.git`
 
-### `npm install`
+#### `npm install`
 
-### `npm start`
+#### `npm start`
 
 ---
 
